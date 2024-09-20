@@ -1,0 +1,8 @@
+arc
+android-file-transfer
+android-studio
+git-credential-manager
+imageoptim
+iterm2
+keka
+visual-studio-code
