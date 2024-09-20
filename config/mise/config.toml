@@ -1,0 +1,7 @@
+[tools]
+node = "latest"
+java = "zulu-22.32.15"
+ruby = "3.3.5"
+
+[settings]
+experimental = true
